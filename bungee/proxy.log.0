@@ -440,3 +440,210 @@ Reason: §fBanned by an operator.
 14:40:58 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
 14:40:58 [INFO] [EaglercraftXBungee] Stopping skin cache HTTP client...
 14:41:00 [INFO] Closing IO threads
+21:14:43 [INFO] Using mbed TLS based native cipher.
+21:14:43 [INFO] Using zlib based native compressor.
+21:14:43 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:18eae8a:1842
+21:14:44 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+21:14:44 [INFO] Epoll is working, utilising it!
+21:14:44 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+21:14:44 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+21:14:44 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+21:14:44 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+21:14:44 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+21:14:44 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+21:14:44 [INFO] Loaded plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+21:14:44 [INFO] Loaded plugin ViaRewind version 3.0.6 by null
+21:14:44 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+21:14:44 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+21:14:44 [INFO] Loaded plugin cmd_kick version git:cmd_kick:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+21:14:44 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+21:14:44 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+21:14:44 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+21:14:44 [INFO] Loaded plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+21:14:44 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+21:14:44 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:14:44 [WARNING] :>  
+21:14:44 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+21:14:44 [WARNING] :>  
+21:14:44 [WARNING] :>  This plugin wasn't tested to be 'working'
+21:14:44 [WARNING] :>  with ANY version of BungeeCord (and forks)
+21:14:44 [WARNING] :>  apart from the versions listed below:
+21:14:44 [WARNING] :>  
+21:14:44 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:67c65e0:1828
+21:14:44 [WARNING] :>  - Waterfall: 1.20-R0.3-SNAPSHOT:da6aaf6:572
+21:14:44 [WARNING] :>  
+21:14:44 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+21:14:44 [WARNING] :>  
+21:14:44 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+21:14:44 [WARNING] :>  
+21:14:44 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+21:14:44 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+21:14:45 [SEVERE] [EaglercraftXBungee] Recieved code 503 while looking up UUID of lax1dude
+21:14:45 [INFO] Loaded plugin EaglercraftXBungee version 1.1.0 by lax1dude
+21:14:45 [WARNING] Forced host server pvp is not defined
+21:14:45 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+21:14:45 [INFO] [ViaVersion] Loading block connection mappings ...
+21:14:45 [INFO] [EaglercraftXBungee] Downloading new certificate: https://eaglercraft.com/backup.cert
+21:14:46 [INFO] [EaglercraftXBungee] Downloading new certificate: https://deev.is/eagler/backup.cert
+21:14:46 [INFO] [EaglercraftXBungee] Loaded certificate: /home/datadecayvps/mcserver/bungee/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+21:14:46 [INFO] [EaglercraftXBungee] Loaded certificate: /home/datadecayvps/mcserver/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+21:14:46 [INFO] [EaglercraftXBungee] Loaded certificate: /home/datadecayvps/mcserver/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+21:14:46 [INFO] [ViaBackwards] Loading translations...
+21:14:46 [INFO] [ViaBackwards] Registering protocols...
+21:14:46 [INFO] [ViaVersion] ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+21:14:46 [INFO] [ViaVersion] Highest supported version by the proxy: Unknown (766) (766)
+21:14:46 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor!
+21:14:46 [INFO] Enabled plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+21:14:46 [INFO] Enabled plugin ViaRewind version 3.0.6 by null
+21:14:46 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+21:14:46 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+21:14:46 [INFO] Enabled plugin cmd_kick version git:cmd_kick:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+21:14:46 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+21:14:46 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+21:14:46 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+21:14:46 [WARNING] [ViaVersion] There is a newer plugin version available: 5.3.2, you're on: 4.9.3
+21:14:46 [INFO] Enabled plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+21:14:46 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+21:14:46 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+21:14:46 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+21:14:47 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+21:14:47 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+21:14:47 [INFO] Enabled plugin EaglercraftXBungee version 1.1.0 by lax1dude
+21:14:47 [INFO] Listening on /127.0.0.1:25577
+22:01:22 [WARNING] [EaglercraftXBungee] Server icon is not a file: /home/datadecayvps/mcserver/bungee/server-icon.png
+22:01:31 [INFO] [EaglercraftXBungee] [/45.37.199.236:65440]: Connected via websocket
+22:01:31 [INFO] [EaglercraftXBungee] [/45.37.199.236:65440]: Origin header is http://65.19.154.73:8081
+22:01:31 [INFO] [EaglercraftXBungee] [/45.37.199.236:65440]: Logged in as 'DataDecay'
+22:01:31 [INFO] [DataDecay] -> UpstreamBridge has connected
+22:01:31 [INFO] [DataDecay] <-> ServerConnector [lobby] has connected
+22:12:23 [WARNING] [DataDecay] -> UpstreamBridge - NativeIoException: recvAddress(..) failed: Connection reset by peer
+22:12:23 [INFO] [DataDecay] disconnected with: §f§fNativeIoException : recvAddress(..) failed: Connection reset by peer
+22:12:23 [INFO] [DataDecay] <-> DownstreamBridge <-> [lobby] has disconnected
+22:12:23 [INFO] [DataDecay] -> UpstreamBridge has disconnected
+22:26:41 [INFO] [EaglercraftXBungee] [/45.37.199.236:51127]: Connected via websocket
+22:26:41 [INFO] [EaglercraftXBungee] [/45.37.199.236:51127]: Origin header is http://65.19.154.73:8081
+22:26:41 [INFO] [EaglercraftXBungee] [/45.37.199.236:51127]: Logged in as 'DataDecay'
+22:26:41 [INFO] [DataDecay] -> UpstreamBridge has connected
+22:26:41 [INFO] [DataDecay] <-> ServerConnector [lobby] has connected
+22:26:45 [INFO] [DataDecay] -> UpstreamBridge has disconnected
+22:26:45 [INFO] [DataDecay] disconnected with: §f§cProxy lost connection to server.
+22:26:45 [INFO] [DataDecay] <-> DownstreamBridge <-> [lobby] has disconnected
+22:39:44 [INFO] Closing listener [id: 0xd372a193, L:/127.0.0.1:25577]
+22:39:44 [INFO] Closing pending connections
+22:39:44 [INFO] Disconnecting 0 connections
+22:39:45 [INFO] Disabling plugins
+22:39:45 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+22:39:45 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+22:39:45 [INFO] [EaglercraftXBungee] Stopping skin cache HTTP client...
+22:39:47 [INFO] Closing IO threads
+22:39:48 [INFO] Thank you and goodbye
+22:40:32 [INFO] Using mbed TLS based native cipher.
+22:40:32 [INFO] Using zlib based native compressor.
+22:40:32 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:18eae8a:1842
+22:40:32 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+22:40:32 [INFO] Epoll is working, utilising it!
+22:40:32 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+22:40:32 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+22:40:32 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+22:40:32 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+22:40:32 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+22:40:32 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+22:40:32 [INFO] Loaded plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+22:40:32 [INFO] Loaded plugin ViaRewind version 3.0.6 by null
+22:40:32 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+22:40:32 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+22:40:32 [INFO] Loaded plugin cmd_kick version git:cmd_kick:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+22:40:32 [WARNING] Error loading plugin EaglerMOTD
+java.lang.NoClassDefFoundError: org/json/JSONObject
+	at net.lax1dude.eaglercraft.eaglermotd.EaglerMOTD.loadConfiguration(EaglerMOTD.java:132)
+	at net.lax1dude.eaglercraft.eaglermotd.EaglerMOTD.onLoad(EaglerMOTD.java:302)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:345)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:251)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:284)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.json.JSONObject
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:103)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	... 7 more
+22:40:32 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+22:40:32 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+22:40:32 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+22:40:32 [INFO] Loaded plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+22:40:32 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+22:40:32 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+22:40:32 [WARNING] :>  
+22:40:32 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+22:40:32 [WARNING] :>  
+22:40:32 [WARNING] :>  This plugin wasn't tested to be 'working'
+22:40:32 [WARNING] :>  with ANY version of BungeeCord (and forks)
+22:40:32 [WARNING] :>  apart from the versions listed below:
+22:40:32 [WARNING] :>  
+22:40:32 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+22:40:32 [WARNING] :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+22:40:32 [WARNING] :>  - FlameCord: 1.1.1
+22:40:32 [WARNING] :>  
+22:40:32 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+22:40:32 [WARNING] :>  
+22:40:32 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+22:40:32 [WARNING] :>  
+22:40:32 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+22:40:32 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+22:40:33 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+22:40:33 [INFO] Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+22:40:33 [WARNING] Forced host server pvp is not defined
+22:40:33 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+22:40:33 [INFO] [ViaVersion] Loading block connection mappings ...
+22:40:33 [INFO] [ViaBackwards] Loading translations...
+22:40:33 [INFO] [ViaBackwards] Registering protocols...
+22:40:33 [INFO] [ViaVersion] ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+22:40:33 [INFO] [ViaVersion] Highest supported version by the proxy: Unknown (766) (766)
+22:40:34 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor!
+22:40:34 [INFO] [EaglercraftXBungee] Loaded certificate: /home/datadecayvps/mcserver/bungee/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+22:40:34 [INFO] [EaglercraftXBungee] Loaded certificate: /home/datadecayvps/mcserver/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+22:40:34 [INFO] [EaglercraftXBungee] Loaded certificate: /home/datadecayvps/mcserver/bungee/plugins/EaglercraftXBungee/eagcert/$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+22:40:34 [INFO] Enabled plugin ViaVersion version 4.9.3 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+22:40:34 [INFO] Enabled plugin ViaRewind version 3.0.6 by null
+22:40:34 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+22:40:34 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+22:40:34 [INFO] Enabled plugin cmd_kick version git:cmd_kick:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+22:40:34 [WARNING] Exception encountered when loading plugin: EaglerMOTD
+java.lang.NoClassDefFoundError: org/json/JSONObject
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676)
+	at net.md_5.bungee.api.plugin.PluginManager.registerListener(PluginManager.java:437)
+	at net.lax1dude.eaglercraft.eaglermotd.EaglerMOTD.onEnable(EaglerMOTD.java:310)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:266)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:298)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.json.JSONObject
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:103)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	... 9 more
+22:40:34 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+22:40:34 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+22:40:34 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+22:40:34 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+22:40:34 [INFO] Enabled plugin ViaBackwards version 4.9.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+22:40:34 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+22:40:34 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+22:40:34 [WARNING] [ViaVersion] There is a newer plugin version available: 5.3.2, you're on: 4.9.3
+22:40:34 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+22:40:34 [INFO] Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+22:40:34 [INFO] Listening on /127.0.0.1:25577
